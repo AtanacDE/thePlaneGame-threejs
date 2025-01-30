@@ -5,7 +5,7 @@
 The project I decided to do is create a 3D game using Three.js/WebGL. Prior to the 
 development of this game, I followed a tutorial I found online about animating a basic 3D scene 
 with Three.js by Karim Maaloul, “The Making of ‘The Aviator’: Animating a Basic 3D Scene with 
-Three.js” <sup>[1]<sup>. After completing the tutorial, I then used what I had learned as the base to create my game. 
+Three.js” <sup>[1]</sup>. After completing the tutorial, I then used what I had learned as the base to create my game. 
 In the past, I have created several 2D “Shoot’Em Up” type genres of games where the player 
 controls a ship and shoots enemies, and dodge objects so I was very inspired to re-create one of 
 my games in 3D.
@@ -85,7 +85,7 @@ manipulating each vertex to create the weird geometry that
 I needed. Furthermore, creating the pyramid for the nose was a challenge as well but it was 
 completed with the help of some source code online that simply creates a pyramid with sizes of 
 one in each vertex and I simply used a scaling matrix to make it the size I wanted and positioned 
-it accordingly <sup>[2]<sup>.
+it accordingly <sup>[2]</sup>.
 
 Another interesting part about the plane is the flag attached to the back. The flag is composed 
 of 12 cubes equally spaced apart in three rows and four columns, and a flag pole. The 
